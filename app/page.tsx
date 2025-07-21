@@ -238,7 +238,7 @@ export default function Home() {
               </div>
               <h4 className="font-medium text-gray-900 mb-2">Get Result</h4>
               <p className="text-sm text-gray-600">
-                Click "Encrypt Message" to get your encrypted result. You can copy it to clipboard.
+                Click &quot;Encrypt Message&quot; to get your encrypted result. You can copy it to clipboard.
               </p>
             </div>
           </div>
