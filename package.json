@@ -14,7 +14,7 @@
     "@radix-ui/react-slot": "^1.2.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "jsencrypt": "^3.3.2",
+    "jsrsasign": "^10.3.0",
     "lucide-react": "^0.525.0",
     "next": "15.4.2",
     "react": "19.1.0",
@@ -26,6 +26,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@types/jsrsasign": "^10.5.15",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
